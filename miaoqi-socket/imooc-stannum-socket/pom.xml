@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.miaoqi.socket</groupId>
+        <artifactId>miaoqi-socket</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
+    <groupId>com.miaoqi.imooc</groupId>
+    <artifactId>imooc-stannum-socket</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>imooc-netgram-01-socket</module>
+        <module>imooc-netgram-02-bio-chatroom</module>
+        <module>imooc-netgram-03-nio-file-copy</module>
+        <module>imooc-netgram-04-nio-chatroom</module>
+        <module>imooc-netgram-05-aio-tutorial</module>
+        <module>imooc-netgram-06-aio-chatroom</module>
+        <module>imooc-netgram-07-webserver-tutorial</module>
+    </modules>
+
+</project>

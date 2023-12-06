@@ -1,0 +1,6 @@
+com/miaoqi/socket/MessageCreator.class
+com/miaoqi/socket/UDPProvider.class
+com/miaoqi/socket/UDPSearcher$Listener.class
+com/miaoqi/socket/UDPSearcher.class
+com/miaoqi/socket/UDPProvider$Provider.class
+com/miaoqi/socket/UDPSearcher$Device.class

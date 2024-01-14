@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/atguigu-netty/atguigu-netty.iml" filepath="$PROJECT_DIR$/atguigu-netty/atguigu-netty.iml" />
-      <module fileurl="file://$PROJECT_DIR$/miaoqi-socket/miaoqi-socket.iml" filepath="$PROJECT_DIR$/miaoqi-socket/miaoqi-socket.iml" />
-    </modules>
-  </component>
-</project>

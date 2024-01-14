@@ -8,7 +8,7 @@ import java.net.Socket;
 public class Client {
 
     public static void main(String[] args) throws Exception {
-        Socket socket = new Socket();
+        Socket socket = new Socket(); 
         // 设置读取的超时时间
         socket.setSoTimeout(3000);
         // 连接本地, 端口2000, 连接超时时间3000

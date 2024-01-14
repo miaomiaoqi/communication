@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/atguigu-netty/atguigu-netty.iml" filepath="$PROJECT_DIR$/atguigu-netty/atguigu-netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miaoqi-socket/miaoqi-socket.iml" filepath="$PROJECT_DIR$/miaoqi-socket/miaoqi-socket.iml" />
     </modules>
   </component>
 </project>
